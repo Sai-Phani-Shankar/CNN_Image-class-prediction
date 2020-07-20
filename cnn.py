@@ -60,4 +60,3 @@ print("predicted",model.predict_classes(j))
 
 print("predict",model.predict(j))
 
-#kernel_initializer='he_uniform',
